@@ -1,0 +1,6 @@
+.container{
+    margin-top: 25px;
+    height: 800px;
+    border-radius: 20px;
+    background-image: radial-gradient(grey,pink);
+}
